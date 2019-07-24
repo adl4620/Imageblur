@@ -21,3 +21,10 @@ img=Image.new([
 ])
 
 img.output_image
+
+
+img2 = [
+  [1, 2, 3, 4],
+  [8, 2, 3, 4]
+]
+puts img2[1][0]
